@@ -8,6 +8,11 @@ $env:USERPROFILE\.config
     └─ my.omp.json
 ```
 
+## How do I get multiple tabs on the terminal
+### Links
+- [Microsoft Terminal](https://github.com/microsoft/terminal)
+
+
 ## How do I print env on Powershell
 ### Tokens
 ```
