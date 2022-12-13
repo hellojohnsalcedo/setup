@@ -2,4 +2,5 @@
 ## Tokens
 ```
 $USERPROFILE
+$PSHOME
 ```
