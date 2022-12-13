@@ -50,3 +50,13 @@ WSManStackVersion              3.0
 PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
 ```
+
+## How do I install CLI applications
+### Tokens
+```
+winget
+  └─ search
+    └─ Microsoft.PowerShell
+  └─ install
+    └─ --id Microsoft.PowerShell --source winget
+```
