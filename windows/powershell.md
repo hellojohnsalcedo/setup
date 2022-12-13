@@ -18,3 +18,13 @@ Get-ChildItem
     └─ dir
     └─ ls
 ```
+
+## How do I create a file on Powershell
+### Tokens
+```
+$null
+  └─ $null > filename
+  └─ $null | sc filename
+New-Item
+  └─ ni filename
+```
