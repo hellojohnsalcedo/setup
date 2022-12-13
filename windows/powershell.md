@@ -59,6 +59,9 @@ SerializationVersion           1.1.0.1
 ```
 
 ## How do I install CLI applications
+### References
+See [package managers](package-managers)
+
 ### Tokens
 ```
 winget
