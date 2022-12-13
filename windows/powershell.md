@@ -8,6 +8,8 @@ $env:USERPROFILE\.config
     └─ my.omp.json
 ```
 
+## Package Managers
+
 ## How do I get multiple tabs on the terminal
 ### Links
 - [Microsoft Terminal](https://github.com/microsoft/terminal)
