@@ -3,6 +3,5 @@
 ## Install
 ### Script
 ```
-Install-Module posh-git -Scope CurrentUser -Force
-Install-Moduel oh-my-posh -Scope CurrentUser -Force
+winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
