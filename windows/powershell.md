@@ -8,7 +8,15 @@ $env:USERPROFILE\.config
     └─ my.omp.json
 ```
 
-## Package Managers
+## Package Managers (App Installers)
+### Scoop
+See [home](https://scoop.sh/)
+
+### Chocolatey
+See [home](https://chocolatey.org/)
+
+### winget
+Winget is the default App Installer for Windows. For more info, see [docs](https://learn.microsoft.com/en-us/windows/package-manager/winget/).
 
 ## How do I get multiple tabs on the terminal
 ### Links
