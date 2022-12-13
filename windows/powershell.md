@@ -78,3 +78,7 @@ winget
   └─ install
     └─ --id Microsoft.PowerShell --source winget
 ```
+
+## How do I find files
+### References
+[Use windows powershell to search for files](https://devblogs.microsoft.com/scripting/use-windows-powershell-to-search-for-files/)
